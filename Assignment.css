@@ -1,0 +1,111 @@
+.webpage{
+  max-width: max-content; margin: auto; padding: 20px;
+}
+.sectionone {
+  background-image: url("/Images/pimage9.jpeg"); 
+  background-repeat: no-repeat; 
+  background-size:cover}
+.sectiononetext1  {
+  text-align: center; 
+  font-size: 75px;
+}
+.sectiononetext2 {
+  text-align: center; 
+  font-size: 28px; 
+  color: white;
+}
+.button1position{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button1 {
+  background-color: rgb(245, 230, 17); 
+  box-sizing: border-box; 
+  padding: 1.2%; 
+  font-size: 16px; 
+  font-weight: bold; 
+  border-color: white; 
+  border-width: 4px;
+}
+.section2text1 {
+  font-size: 52px; 
+  text-align: center;
+}
+.section2text2 {
+  font-size: 28px; 
+  text-align: center; 
+  justify-content: center; 
+  font-weight: 400;
+}
+.column {
+  column-count: 3;
+}
+.vision {
+  background-color: wheat; 
+  text-align: center; 
+  font-weight: 300;
+  justify-content: center;
+}
+.mission { 
+  background-color: wheat; 
+  text-align: center;
+  font-weight: 300; 
+  justify-content: center;
+}
+.core { 
+  background-color: wheat; 
+  text-align: center; 
+  font-weight: 300;
+  justify-content: center;
+}
+.st3 {
+  font-size: 20px;   
+  font-weight: 280;
+}
+.pphotos {
+  flex: auto;
+  column-count: 3;
+  width: 100%;
+}
+.pphotospad {
+  padding-left: 20%;
+  padding-right: 10%;
+}
+.section5 { text-align: center;
+  column-count: 5;
+  background-color: rgb(223, 189, 0);
+}
+.section5t {
+  font-size: 18px;
+}
+.section5b { text-align: center;
+  column-count: 2;
+  background-color: rgb(223, 189, 0);
+}
+.form {
+  padding-left: 20%;
+  padding-right: 20%;
+  column-count: 2;
+}
+.button2 {
+  background-color: rgb(245, 230, 17);
+  box-sizing: ox; 
+  padding: 1.2%; 
+  font-size: 16px; 
+  font-weight: bold; 
+  border-color: white; 
+  border-width: 4px;
+}
+
+.footer {
+  column-count: 3;
+  background-color: black;
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.footert {
+padding-top: 100px;
+padding-bottom: 100px%;
+}
